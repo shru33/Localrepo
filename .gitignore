@@ -1,0 +1,26 @@
+# TYPO3 system folders
+/public/typo3temp/
+public/fileadmin/_processed_/
+public/fileadmin/_temp_/
+
+# Composer & vendor folders
+/vendor/
+composer.lock
+
+# Environment config
+/.env
+/.env.local
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Git backups
+*.orig
